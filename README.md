@@ -3,7 +3,7 @@ Lights Out is a logic/puzzle game, played on a gird of individual lights, which 
 
 # Component Design
 
-##APP
+## APP
 As often, this is a very simple component. It just renders the Board component.
 
 ## Board
